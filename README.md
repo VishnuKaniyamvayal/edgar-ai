@@ -13,19 +13,13 @@ Click the link below for a live preview:
 - Email: 1@1.com
 - Password: 1
 
-## Current Status
-
-This repository is being actively updated.
-
-A fuller README (architecture, setup steps, and feature details) will be added soon.
-
-## Tech Stack (In Progress)
+## Tech Stack
 
 - Rust + Axum backend
-- React frontend
+- Vite React frontend
 - Tavily web search
-- LLM streaming responses
-- Supabase/Postgres conversation memory
+- GEMINI / OPENAI - LLM
+- Supabase/Postgres
 
 ## Contact
 
