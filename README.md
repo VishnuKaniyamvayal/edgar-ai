@@ -1,6 +1,6 @@
 # Edgar
 
-Perplexity-style AI search assistant with streaming responses and source citations.
+Conversational AI search assistant with streaming responses and source citations.
 
 ## Live Preview
 
