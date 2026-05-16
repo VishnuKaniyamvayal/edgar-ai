@@ -6,7 +6,7 @@ Conversational AI search assistant with streaming responses and source citations
 
 Click the link below for a live preview:
 
-[Open Live Preview](https://your-live-preview-link-here)
+[Open Live Preview](https://cheerful-cupcake-e47628.netlify.app)
 
 ## Demo Credentials
 
