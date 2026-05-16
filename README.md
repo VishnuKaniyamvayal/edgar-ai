@@ -20,14 +20,6 @@ If the website does not return a response, API credits may have gone down (cat a
 In that case, please watch the demo video:
 
 [Watch Video Demo](https://youtu.be/_oqIjyAE9bw)
-
-## Cat Meme GIF Zone
-
-Because every serious project needs serious cat energy:
-
-![Keyboard Cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
-![Nyan Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 ## Demo Credentials
 
 Use these credentials to enter the cat bunker:
@@ -55,3 +47,11 @@ The mighty cat-powered stack:
 
 If the preview link is not accessible or anything breaks unexpectedly,
 please open an issue in this repository and we will fix it faster than a cat chasing a laser.
+
+## Cat Meme GIF Zone
+
+Because every serious project needs serious cat energy:
+
+![Keyboard Cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
+![Nyan Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
