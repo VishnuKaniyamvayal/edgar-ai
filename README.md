@@ -1,26 +1,57 @@
 # Edgar
 
-Conversational AI search assistant with streaming responses and source citations.
+Perplexity-style AI search assistant with streaming responses and source citations.
+
+Now with 100% more cat energy.
+
+```
+/\_/\
+( o.o )   "i can haz citations?"
+ > ^ <
+```
 
 ## Live Preview
 
-Click the link below for a live preview:
+Curious human, click here:
 
-[Open Live Preview](https://cheerful-cupcake-e47628.netlify.app)
+[Open Live Preview](https://your-live-preview-link-here)
+
+If the website does not return a response, API credits may have gone down (cat ate the budget).
+In that case, please watch the demo video:
+
+[Watch Video Demo](https://youtu.be/_oqIjyAE9bw)
+
+## Cat Meme GIF Zone
+
+Because every serious project needs serious cat energy:
+
+![Keyboard Cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
+![Nyan Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Demo Credentials
+
+Use these credentials to enter the cat bunker:
 
 - Email: 1@1.com
 - Password: 1
 
-## Tech Stack
+## Current Status
+
+Project status: actively updated, actively caffeinated, occasionally meowing.
+
+A fuller README (architecture, setup steps, and feature details) is coming soon.
+
+## Tech Stack (In Progress)
+
+The mighty cat-powered stack:
 
 - Rust + Axum backend
-- Vite React frontend
+- React frontend
 - Tavily web search
-- GEMINI / OPENAI - LLM
-- Supabase/Postgres
+- LLM streaming responses
+- Supabase/Postgres conversation memory
 
 ## Contact
 
-If you face any access issues with the preview link, please open an issue in this repository.
+If the preview link is not accessible or anything breaks unexpectedly,
+please open an issue in this repository and we will fix it faster than a cat chasing a laser.
